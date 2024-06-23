@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science I also love Data Science 
 - 🌱 I’m currently learning Computer Science with a field in Data Science
 - 💞️ I’m looking to collaborate on Projects and Research 
-- 📫 How to reach me sravanth.tumma@gmai.com 
+- 📫 How to reach me sravanth.tumma@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I lived in 8 places in US 
 
